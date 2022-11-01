@@ -49,8 +49,8 @@ Role | Integer | 2
 Koordinat | Point | [-7.10379, 107.98664]
 
 ### Role
----|---|---
 Nama Atribut | Tipe Data | Contoh
+---|---|---
 Role ID | Integer | 2
 Nama Role | String | User
 
