@@ -56,4 +56,4 @@ Nama Role | String | User
 
 
 ## Mockup UX
-[text](MockUp.png)
+![text](MockUp.png)
