@@ -56,4 +56,4 @@ Nama Role | String | User
 
 
 ## Mockup UX
-[text]((https://github.com/RiloHusniyanwar/2223-IF217A02-sig/blob/main/Proposal/MockUp.png)
+[text](MockUp.png)
